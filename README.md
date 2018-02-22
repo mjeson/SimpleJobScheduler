@@ -32,7 +32,7 @@ SampleJob.cs
     {
         public void Execute()
         {
-            Console.WriteLine($"Hello");
+            Console.WriteLine("Hello");
         }
     }
             
